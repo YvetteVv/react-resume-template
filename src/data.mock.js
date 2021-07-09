@@ -17,13 +17,13 @@ export const data = {
             zip: '22202',
         },
         website: 'http://www.timbakerdev.com',
-        resumedownload: 'https://mayflower.s3.amazonaws.com/Ellenresume.pdf',
+        resumedownload: 'https://test-ellenliang.s3.amazonaws.com/Ellenresume.pdf',
         social: [
-            {
-                name: 'linkedin',
-                url: 'https://www.linkedin.com/in/ellen-liang-773971215/',
-                className: 'fa fa-linkedin',
-            },
+            // {
+            //     name: 'linkedin',
+            //     url: 'https://www.linkedin.com/in/ellen-liang-773971215/',
+            //     className: 'fa fa-linkedin',
+            // },
             {
                 name: 'github',
                 url: 'https://github.com/YvetteVv',
